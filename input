@@ -1,4 +1,4 @@
 Кнопка офформить заказ, которая идёт после перехода в корзину
 
 
-<input type="submit" id="edit-checkout" onclick=$.getScript(‘http://px.adhigh.net/p/conversion.js?site_id=1’) name="op" value="Оформление заказа" class="form-submit">
+<input type="submit" id="edit-checkout" onclick=$.getScript(‘http://px.adhigh.net/p/conversion.js?site_id=1’)" name="op" value="Оформление заказа" class="form-submit">
